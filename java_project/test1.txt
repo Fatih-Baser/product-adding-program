@@ -1,0 +1,6 @@
+
+ Produkt  : dvs marka : sfvs Waga : sd cena : vsd KawaLek :dvs
+ Produkt  : fdbdfb marka : dfbdfb Waga : dfbdf cena : fd KawaLek :fbd
+ Produkt  : parfum marka : eyfel Waga : 100 cena : 5 KawaLek :100
+ Produkt  : mleko marka : yoruk Waga : 12 cena : 2 KawaLek :60
+ Produkt  : krem marka : niwea Waga : 20 cena : 10 KawaLek :1000
